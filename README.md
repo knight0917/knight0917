@@ -26,6 +26,7 @@ I am a computer science engineer passionate about bridging the gap between hardw
 - 💼 I previously worked as an **Intern** at **Techsture Technologies** (Ahmedabad), focusing on IoT and Database Operations.
 - 🌱 I’m currently deepening my knowledge in **Knime**, **Advanced Python**, and **Smart Campus Solutions**.
 - 👯 I’m looking to collaborate on **IoT**, **Data Analysis**, and **Web Development** projects.
+- ♟️ I enjoy playing **Chess** to sharpen my strategic thinking.
 - ⚡ **Fun fact**: I love creating art using CSS!
 
 ---
