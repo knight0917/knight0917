@@ -21,7 +21,7 @@ I am a computer science engineer passionate about bridging the gap between hardw
 
 - 🔭 I’m currently pursuing a **Master in Digital Skills for Sustainable Societal Transition** at **Politecnico di Torino**.
 - 👯 I’m looking to collaborate on **IoT**, **Data Analysis**, and **Web Development** projects.
-- ♟️ I enjoy playing **Chess** and editing videos on **Premiere Pro** in my free time.
+- ♟️ I enjoy playing **Chess**, editing videos on **Premiere Pro**, and reading **Astrology** in my free time.
 
 ---
 
